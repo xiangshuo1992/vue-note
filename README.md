@@ -1,5 +1,14 @@
 # note
 
+Vue 2.6+Vue-Cli 3.0+Vue-router+Vuex 实现的个人便签项目
+https://xiangshuo1992.github.io/vue-note
+
+## 部署
+自动部署到gh-page分支
+```
+bash deploy.sh
+```
+
 ## Project setup
 ```
 yarn install
