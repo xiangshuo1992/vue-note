@@ -3,6 +3,12 @@
 Vue 2.6+Vue-Cli 3.0+Vue-router+Vuex 实现的个人便签项目
 https://xiangshuo1992.github.io/vue-note
 
+建议切换到手机模式预览体验
+
+![20191118114043.png](https://i.loli.net/2019/11/18/YIVxqsNXgbJt92S.png)
+
+![20191118114246.png](https://i.loli.net/2019/11/18/qdxXSUnGl2e4wC9.png)![20191118114336.png](https://i.loli.net/2019/11/18/Quip7MwJjtCr1RP.png)
+
 ## 部署
 自动部署到gh-page分支
 ```
